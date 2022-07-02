@@ -1,0 +1,15 @@
+{
+  "name": "basics-practice",
+  "version": "1.0.0",
+  "description": "Refer the PROBLEM.md file for the problem description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab-wipro.stackroute.in/18699a0418/node-basics-practice.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
